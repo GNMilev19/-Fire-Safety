@@ -1,3 +1,4 @@
+<img src="Images/logo.png">
 Team Gosho and Friends<br><br><br>
 Members:<br><br>
 Scrum trainer: Georgi Milev<br>
