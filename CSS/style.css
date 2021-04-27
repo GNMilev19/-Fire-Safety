@@ -65,3 +65,11 @@ igcaption {
 #id {
   font-size: 35px;
 }
+
+table{
+  margin: auto;
+  width: 50%;
+  
+  padding: 10px;
+  
+}
