@@ -54,3 +54,14 @@ header {
     background-size: cover;
     background-attachment: fixed;
 }
+igcaption {
+  font-size: 30px;
+}
+
+#staj {
+  font-size: 23px;
+}
+
+#id {
+  font-size: 35px;
+}
